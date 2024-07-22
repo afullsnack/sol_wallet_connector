@@ -75,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Create a new webpack config override file `config-override.js` to override the default webpack configuration.
 Add any polyfill required as outlined in the `resolve.fallback` field in the file
+
+> referrence repo [wallet-adapter](https://github.com/anza-xyz/wallet-adapter/blob/master/packages/starter/create-react-app-starter/config-overrides.js)
